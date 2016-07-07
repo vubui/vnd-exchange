@@ -1,0 +1,22 @@
+{
+  "name": "vnd-exchange",
+  "version": "1.0.0",
+  "description": "A module to get and convert updated Vietnam Dong (VND) exchange rates",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 20000"
+  },
+  "author": "Vu Bui <buidinhvu@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vubui/vnd-exchange.git"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "cheerio": "^0.20.0",
+    "mocha": "^2.5.3",
+    "request-promise": "^3.0.0",
+    "underscore": "^1.8.3"
+  }
+}
