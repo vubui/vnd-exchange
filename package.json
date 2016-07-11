@@ -1,6 +1,6 @@
 {
   "name": "vnd-exchange",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A module to get and convert updated Vietnam Dong (VND) exchange rates",
   "main": "index.js",
   "scripts": {
